@@ -1,0 +1,6 @@
+ CREATE TABLE R (A int, B int );
+ CREATE TABLE S (B int, C int);
+ CREATE TABLE T (C int, D int);
+ CREATE TABLE U (D int, E int);
+ CREATE TABLE V (E int, F int);
+ CREATE TABLE W (F int, G int);
